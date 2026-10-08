@@ -1,6 +1,0 @@
-{
-  "name": "Catering Management & Recipe Food Cost System",
-  "description": "Sistem profesional manajemen katering, resep, HPP, pesanan, produksi, dan food cost untuk proyek vokasi.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
